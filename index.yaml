@@ -14,6 +14,16 @@ entries:
   dotnet-run:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-06-05T20:41:40.207380351Z"
+    description: chart for running a quarkus micro service
+    digest: 560d7985fb1632376c073f0c245ae9d011597421af08227f5b74e85ac26dd532
+    name: dotnet-run
+    type: application
+    urls:
+    - https://github.com/raf-backstage-demo/shared-workflows/releases/download/dotnet-run-0.1.13/dotnet-run-0.1.13.tgz
+    version: 0.1.13
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-06-05T15:08:45.29588856Z"
     description: chart for running a quarkus micro service
     digest: 033a8d95f1d92bd2404f167c4a06b4061e0a0a3621a2db574d34d3122cbf9fcc
@@ -44,6 +54,16 @@ entries:
     - https://github.com/raf-backstage-demo/shared-workflows/releases/download/quarkus-build-0.1.0/quarkus-build-0.1.0.tgz
     version: 0.1.0
   quarkus-run:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-06-05T20:41:40.327441692Z"
+    description: chart for running a quarkus micro service
+    digest: cdf0843c18b066835f198d68ca3d9edb1e5b7b598bc780a786f45fdc90482fec
+    name: quarkus-run
+    type: application
+    urls:
+    - https://github.com/raf-backstage-demo/shared-workflows/releases/download/quarkus-run-0.1.12/quarkus-run-0.1.12.tgz
+    version: 0.1.12
   - apiVersion: v2
     appVersion: 1.16.0
     created: "2022-06-02T23:03:21.373005283Z"
@@ -164,4 +184,4 @@ entries:
     urls:
     - https://github.com/raf-backstage-demo/shared-workflows/releases/download/quarkus-run-0.1.0/quarkus-run-0.1.0.tgz
     version: 0.1.0
-generated: "2022-06-05T15:08:45.296083161Z"
+generated: "2022-06-05T20:41:40.327608995Z"
