@@ -3,6 +3,16 @@ entries:
   cockroach-serverless:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-07-26T16:52:34.216140685Z"
+    description: A Helm chart for Kubernetes
+    digest: b873050c91f1d0f8d6677e7cf37771e097dbddd90a0e86c6d03c9249bba1010e
+    name: cockroach-serverless
+    type: application
+    urls:
+    - https://github.com/raf-backstage-demo/shared-workflows/releases/download/cockroach-serverless-0.1.4/cockroach-serverless-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-07-26T16:35:54.330739075Z"
     description: A Helm chart for Kubernetes
     digest: 177cb118562bf0c4e4dadb74e4b3826dc3c49fbeba674f42b212f9467d4df590
@@ -275,4 +285,4 @@ entries:
     urls:
     - https://github.com/raf-backstage-demo/shared-workflows/releases/download/quarkus-run-0.1.0/quarkus-run-0.1.0.tgz
     version: 0.1.0
-generated: "2022-07-26T16:35:54.330837076Z"
+generated: "2022-07-26T16:52:34.216244685Z"
