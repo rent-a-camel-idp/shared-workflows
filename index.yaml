@@ -296,13 +296,13 @@ entries:
   quarkus-build:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-04-15T15:10:14.163456856Z"
+    created: "2022-12-16T02:48:51.269164755-05:00"
     description: Chart for building a quarkus app with s2i
-    digest: 38b2ebd7e69e5aea68295eea7d5d43d4a61434e51f79e4212b0ea0c04ae2baef
+    digest: cdb521b924a1c15bec8acf5b9ffcfd9a6a37e999f5d0ea1d5c6c7faf38662cef
     name: quarkus-build
     type: application
     urls:
-    - https://github.com/raf-backstage-demo/shared-workflows/releases/download/quarkus-build-0.1.0/quarkus-build-0.1.0.tgz
+    - https://github.com/rent-a-camel-idp/shared-workflows/releases/download/quarkus-build-0.1.0/quarkus-build-0.1.0.tgz
     version: 0.1.0
   quarkus-run:
   - apiVersion: v2
