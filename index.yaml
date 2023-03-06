@@ -304,7 +304,28 @@ entries:
     urls:
     - https://github.com/rent-a-camel-idp/shared-workflows/releases/download/quarkus-build-0.1.0/quarkus-build-0.1.0.tgz
     version: 0.1.0
+  quarkus-pipeline:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-06T00:38:26.366889411Z"
+    description: A Helm chart tha deploys a tekto pipeline to build a quarkus microservice
+    digest: a3f1bad33a3ec3e0a6fb27a18a8123d0f9b88f9ed710b4607bae6785d539af46
+    name: quarkus-pipeline
+    type: application
+    urls:
+    - https://github.com/rent-a-camel-idp/shared-workflows/releases/download/quarkus-pipeline-0.1.13/quarkus-pipeline-0.1.13.tgz
+    version: 0.1.13
   quarkus-run:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-06T00:38:26.490696439Z"
+    description: chart for running a quarkus micro service
+    digest: 8fb38bd76b2544287ba768ab70cc254e8d51a9579f647a3e89e5ad09708941df
+    name: quarkus-run
+    type: application
+    urls:
+    - https://github.com/rent-a-camel-idp/shared-workflows/releases/download/quarkus-run-0.1.20/quarkus-run-0.1.20.tgz
+    version: 0.1.20
   - apiVersion: v2
     appVersion: 1.16.0
     created: "2022-08-15T12:21:05.061643309Z"
@@ -505,4 +526,4 @@ entries:
     urls:
     - https://github.com/raf-backstage-demo/shared-workflows/releases/download/quarkus-run-0.1.0/quarkus-run-0.1.0.tgz
     version: 0.1.0
-generated: "2022-08-16T14:35:29.1353825Z"
+generated: "2023-03-06T00:38:26.491039143Z"
