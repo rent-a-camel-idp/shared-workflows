@@ -2,6 +2,6 @@ team: dummy
 repositoryOwner: dummy
 ownerType: organization
 repositoryName: dummy
-# apps.control-cluster-raffa.demo.red-chesterfield.com
+# apps.cluster-pntr8.pntr8.sandbox988.opentlc.com
 baseURL: dummy
 workspaceSize: 1Gi
