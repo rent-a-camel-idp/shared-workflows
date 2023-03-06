@@ -5,3 +5,4 @@ repositoryName: dummy
 # apps.cluster-pntr8.pntr8.sandbox988.opentlc.com
 baseURL: dummy
 workspaceSize: 1Gi
+application: dummy
